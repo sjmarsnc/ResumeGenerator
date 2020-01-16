@@ -1,0 +1,16 @@
+ .mycards { 
+     background-color: midnightblue; 
+     color: white;
+ }
+
+ .jumbotron {
+     position: relative;
+     background-color: lavender;
+ }
+
+ #headshot { 
+     position: bottom 20%;  
+     width: 400px; 
+     height: 400px; 
+
+ }

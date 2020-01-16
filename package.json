@@ -1,0 +1,24 @@
+{
+  "name": "resumegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resumeGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjmarsnc/ResumeGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjmarsnc/ResumeGenerator/issues"
+  },
+  "homepage": "https://github.com/sjmarsnc/ResumeGenerator#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "inquirer": "^7.0.3",
+    "util": "^0.12.1"
+  }
+}
