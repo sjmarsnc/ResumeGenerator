@@ -4,7 +4,8 @@
 
 *.html
 *.pdf
-
+resumeGenerator.js 
+test.js
 
 ### Node ###
 # Logs
